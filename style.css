@@ -1,0 +1,10 @@
+
+
+.shoppinglistItem{
+    background-color: rgb(220,220,220);
+}
+
+.crossedOut{
+    text-decoration:line-through;
+    background-color: transparent;
+}
